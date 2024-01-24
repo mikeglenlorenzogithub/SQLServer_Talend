@@ -1,0 +1,71 @@
+[ {
+  "baseItem" : {
+    "id" : "_QKNNUGZ8EeWm5YvsrIoYzQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "DQTechnical",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DataQuality",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DemoRoutines",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DqStringHandling",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "GetRandomPhoneNum",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "MDM",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "SQLike",
+    "version" : "Latest",
+    "type" : "routine"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_kFyHULgzEe6dzOfgmzLw2Q",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_pBVS8LhBEe6dzOfgmzLw2Q",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_tdhEALg5Ee6dzOfgmzLw2Q",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_pBVS8LhBEe6dzOfgmzLw2Q - DimCustomer",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_tdhEALg5Ee6dzOfgmzLw2Q - customer",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_tdhEALg5Ee6dzOfgmzLw2Q - product",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_tdhEALg5Ee6dzOfgmzLw2Q - sales_order",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_tdhEALg5Ee6dzOfgmzLw2Q - status_order",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+} ]
